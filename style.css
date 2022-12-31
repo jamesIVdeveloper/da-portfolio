@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+  margin: 10px 5%;
+}
+
+/* header */
+
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* nav */
+
+/* section */
+
+section {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
